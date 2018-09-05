@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Selver">
+        <serverdata>
+          <mappings>
+            <mapping local="D:/OSPanel/domains/iglesia/wp-config.php" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cloudover.cloud">
+        <serverdata>
+          <mappings>
+            <mapping local="D:/OSPanel/domains/iglesia/wp-config.php" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="puet.safary.org">
+        <serverdata>
+          <mappings>
+            <mapping local="D:/OSPanel/domains/iglesia/wp-config.php" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
